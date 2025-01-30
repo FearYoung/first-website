@@ -1,0 +1,38 @@
+main { 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 200px;
+}
+
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size:  100px;
+  margin-left: 625px;
+  
+
+}
+
+h2 {
+    margin-left: 200px;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    margin-left: 200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p2 {
+    margin-left: 200px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+img {
+    max-width: 500px;
+}
+
+figure {
+    float: left;
+    margin: 0 625px;
+}
+
